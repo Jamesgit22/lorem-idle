@@ -41,6 +41,7 @@
   ## Credits:
   
   Collaborators:
+  -  [Jamesgit22](https://github.com/Jamesgit22)
   -  [Elfelfa](https://github.com/Elfelfa)
   -  [rahargrave](https://github.com/rahargrave)
   -  [SurosRegime](https://github.com/SurosRegime)
