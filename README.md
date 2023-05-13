@@ -67,8 +67,6 @@
   
   This project uses the [MIT](https://opensource.org/licenses/MIT) license.
 
-  ## Tests:
-
   ---
   
   ## Questions:
